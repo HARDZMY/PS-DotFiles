@@ -9,11 +9,16 @@ Below is the reference and information.
 
 ## Reference
 
-**1. PowerShell Theme**
+**1. Oh My Posh**
+> Command: winget install JanDeDobbeleer.OhMyPosh -s winget
+> Link: https://github.com/JanDeDobbeleer/oh-my-posh
+
+**2. PowerShell Theme**
 > Link: https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/takuya.omp.json
 
-**2. FiraCode Nerd Font**
+**3. FiraCode Nerd Font**
 > Link: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraCode.zip
 
-**3. Terminal Icon**
+**4. Terminal Icon**
+> Command: Install-Module -Name Terminal-Icons -Repository PSGallery
 > Link: https://github.com/devblackops/Terminal-Icons
