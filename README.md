@@ -22,3 +22,13 @@ Below is the reference and information.
 **4. Terminal Icon**
 > Command: Install-Module -Name Terminal-Icons -Repository PSGallery<br>
 > Link: https://github.com/devblackops/Terminal-Icons
+
+
+# Windows Powerful Application
+**1. Microsoft PowerToys**
+> Command: winget install --id Microsoft.PowerToys --source winget<br>
+> Link: https://learn.microsoft.com/en-us/windows/powertoys/
+
+**2. DevToys**
+> Command: winget install DevToys-app.DevToys --source winget<br>
+> Link: https://devtoys.app/
