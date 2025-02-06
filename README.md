@@ -5,7 +5,7 @@ To customize Windows **PowerShell**.<br>
 Below is the reference and information.
 
 - Created: Hazmi Hashim | 17 Jan 2025
-- Last Update: 17 Jan 2025
+- Last Update: 6 Feb 2025
 
 ## Reference
 
