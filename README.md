@@ -23,6 +23,18 @@ Below is the reference and information.
 > Command: Install-Module -Name Terminal-Icons -Repository PSGallery<br>
 > Link: https://github.com/devblackops/Terminal-Icons
 
+**Extra - Scoop**
+> Command: 
+> 1. scoop list
+> 2. scoop update *
+> 3. scoop cleanup -a
+> 4. scoop cache rm *
+
+**Extra - Winget**
+> Command: 
+> 1. winget list --upgrade available
+> 2. winget upgrade -all
+> 3. winget upgrade --id XX
 
 # Windows Powerful Application
 **1. Microsoft PowerToys**
