@@ -36,6 +36,17 @@ Below is the reference and information.
 > 2. winget upgrade -all
 > 3. winget upgrade --id XX
 
+**Extra - Link to PS1**
+> Command:<br>notepad $PROFILE<br><br>
+> Code:<br>. "D:\Hazmi Hashim\Hazmi Hashim\Hazmi.ps1"
+
+**Extra - Inside PS1**
+> Code:<br>
+> oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/takuya.omp.json" | Invoke-Expression<br><br>
+> Import-Module -Name Terminal-Icons<br><br>
+> Set-PSReadLineOption -PredictionSource History<br>
+> Set-PSReadLineOption -PredictionViewStyle ListView<br>
+
 # Windows Powerful Application
 **1. Microsoft PowerToys**
 > Command: winget install --id Microsoft.PowerToys --source winget<br>
