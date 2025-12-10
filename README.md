@@ -1,7 +1,7 @@
 
 # PowerShell - DotFiles
 
-To customize Windows **PowerShell**.<br>
+To customize Windows **PowerShell** for my own use.<br>
 Below is the reference and information.
 
 - Created: Hazmi Hashim | 17 Jan 2025
@@ -44,7 +44,7 @@ Command: winget install --id Microsoft.PowerShell --source winget
 
 **Extra - Link to PS1**
 > Edit Profile via Notepad Command:<br>notepad $PROFILE<br><br>
-> Sample Referal PS1 File to Specific Path Code:<br>. "D:\Hazmi Hashim\Hazmi Hashim\Hazmi.ps1"<br><br>
+> Sample Referal PS1 File to Specific Path Code:<br>. "C:\<PATH>\<PATH>\<File Name>.ps1"<br><br>
 > To Reload Profile Command:<br>
 . $PROFILE
 
