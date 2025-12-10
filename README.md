@@ -41,7 +41,7 @@ Below is the reference and information.
 > Code:<br>. "D:\Hazmi Hashim\Hazmi Hashim\Hazmi.ps1"
 
 **Extra - Inside PS1**<br>
-*Take note: I have change the theme to use jblab_2021 instead of takuya*
+*Take note: I have change the theme to use jblab_2021 instead of takuya (9 December 2025)*
 > Code:<br>
 > oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/jblab_2021.omp.json" | Invoke-Expression<br><br>
 > Import-Module -Name Terminal-Icons<br><br>
