@@ -14,7 +14,8 @@ Below is the reference and information.
 > Link: https://github.com/JanDeDobbeleer/oh-my-posh
 
 **2. PowerShell Theme**
-> Link: https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/takuya.omp.json
+> Link: https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/takuya.omp.json<br>
+> Link: https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/jblab_2021.omp.json
 
 **3. FiraCode Nerd Font**
 > Link: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraCode.zip
