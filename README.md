@@ -5,7 +5,12 @@ To customize Windows **PowerShell**.<br>
 Below is the reference and information.
 
 - Created: Hazmi Hashim | 17 Jan 2025
-- Last Update: 10 Dec 2025
+- Last Update: 10 Dec 2025<br><br>
+
+Installing Latest PowerShell Version:
+
+Command: winget search --id Microsoft.PowerShell<br>
+Command: winget install --id Microsoft.PowerShell --source winget
 
 ## Reference
 
