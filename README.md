@@ -5,7 +5,7 @@ To customize Windows **PowerShell**.<br>
 Below is the reference and information.
 
 - Created: Hazmi Hashim | 17 Jan 2025
-- Last Update: 6 Feb 2025
+- Last Update: 10 Dec 2025
 
 ## Reference
 
@@ -38,12 +38,14 @@ Below is the reference and information.
 > 3. winget upgrade --id XX
 
 **Extra - Link to PS1**
-> Command:<br>notepad $PROFILE<br><br>
-> Code:<br>. "D:\Hazmi Hashim\Hazmi Hashim\Hazmi.ps1"
+> Edit Profile via Notepad Command:<br>notepad $PROFILE<br><br>
+> Sample Referal PS1 File to Specific Path Code:<br>. "D:\Hazmi Hashim\Hazmi Hashim\Hazmi.ps1"<br><br>
+> To Reload Profile Command:<br>
+. $PROFILE
 
 **Extra - Inside PS1**<br>
 *Take note: I have change the theme to use jblab_2021 instead of takuya (9 December 2025)*
-> Code:<br>
+> *Usage Code:<br><br>*
 > oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH/jblab_2021.omp.json" | Invoke-Expression<br><br>
 > Import-Module -Name Terminal-Icons<br><br>
 > Set-PSReadLineOption -PredictionSource History<br>
